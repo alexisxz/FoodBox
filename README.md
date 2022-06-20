@@ -1,2 +1,2 @@
 # FoodBox
-Created with CodeSandbox
+An app to order food with combos via whatsapp
